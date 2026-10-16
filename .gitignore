@@ -1,0 +1,11 @@
+# Build outputs
+/wifiscanner
+/WiFiScannerApp
+/WiFiScannerApp.app/Contents/MacOS/
+/WiFiScannerApp.app/Contents/_CodeSignature/
+*.o
+*.dSYM/
+
+# Local tooling / OS
+.claude/
+.DS_Store
