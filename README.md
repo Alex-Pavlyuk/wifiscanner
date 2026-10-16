@@ -30,6 +30,10 @@ On first launch macOS asks for **Location Services** access. Without it CoreWLAN
 
 Prints the visible networks, a 5 GHz occupancy map and per-width router recommendations in the terminal.
 
+## Author
+
+[Alex Pavlyuk](https://github.com/Alex-Pavlyuk)
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
